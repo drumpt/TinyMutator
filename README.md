@@ -1,6 +1,7 @@
 # TinyMutator
 
-This project use nightly feature(rustc_private).
+## Introduction
+This project is for implementing mutation testing on Rust. This project uses nightly feature.
 
 ## Usage
 
