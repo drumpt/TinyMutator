@@ -1,7 +1,7 @@
 # TinyMutator
 
 ## Introduction
-This project is for implementing mutation testing on Rust. This project uses nightly feature.
+This project is for implementing mutation testing on Rust. It uses nightly feature.
 
 ## Usage
 
